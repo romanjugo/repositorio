@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Charis+SIL:ital@1&family=Joan&family=Oswald:wght@500&display=swap');
+
+
+
+h1{ color: #B66A20;
+    text-align : center;
+      width: 30% ;
+       margin: auto;}
+
+h2{     
+      width: 33% ;
+       margin: auto; 
+   color: #646262 ;
+   
+   
+}
+
+h3 { color: red ;
+     }
+
+
+h2 { font-family: 'Oswald', sans-serif; }
+
+
+h4 {  text-align : center;
+      width: 30% ; }
+
+
+
+
+
+nav ul li a { font-size: 3rem;
+             text-decoration: none;
+             color: #D98C07 ;
+              font-family: 'Joan', serif; 
+              }
+
+
+
+
+
+body  { background-image: url(../img/fondo2.jpg); 
+          background-attachment: fixed;}
+
+ footer { display: flex;
+        flex-direction: column;
+        justify-content: center;
+           align-items: center;
+          }
+
+
+
+.background_nav { background-color: #141212   }
+
+.botonera img { width: 100px
+             
+              }
